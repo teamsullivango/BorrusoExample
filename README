@@ -1,4 +1,6 @@
 This repository is intended to expose the code I wrote to bring two 
 jQuery plugins together on the same page, without conflicts. As changes
 to the actual site occur, they may or may not be reflected in the files
-saved here.
+saved here. 
+
+The actual lines of JavaScript that address this are in header.html
